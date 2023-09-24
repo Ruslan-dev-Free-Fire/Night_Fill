@@ -1,4 +1,5 @@
 Image Darkening Automation
+
 This Python script automates the process of darkening images using the Pillow (PIL) library. It adjusts brightness, modifies color channels, and saves the processed images.
 
 Usage
